@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/tpopkarbtop.lighterhtml-kzm9ml6j",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve WeYA71AL6ylsGD6MShGt --open"
+  }
+}
